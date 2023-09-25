@@ -4,7 +4,7 @@
 - You can reach me through E-mail, [lundmarkhjalmar@gmail.com](mailto:lundmarkhjalmar@gmail.com).
 - I speak fluent Swedish and English.
 - My programming languages are: Java and JavaScript, the web-dev languages HTML and CSS (+ Nunjucks); and frameworks such as Reactjs frontend and Nodejs backend.
-- Check out my website-portfolio: Coming Soon:tm:
+- Check out my website, contaning my portfolio: [https://hjalmar-lundmark.github.io/](https://hjalmar-lundmark.github.io/).
 
 <!--
 **Hjalmar-Lundmark/Hjalmar-Lundmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
